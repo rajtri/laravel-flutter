@@ -30,14 +30,14 @@
   <p align="center">
     Laravel Airlock Package simple explenantion
     <br />
-    <a href="https://github.com/rajtri/Laravel-Airlock-Tutorial"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rajtri/laravel-flutter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rajtri/Laravel-Airlock-Tutorial">View Demo</a>
+    <a href="https://github.com/rajtri/laravel-flutter">View Demo</a>
     ·
-    <a href="https://github.com/rajtri/Laravel-Airlock-Tutorial/issues">Report Bug</a>
+    <a href="https://github.com/rajtri/laravel-flutter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rajtri/Laravel-Airlock-Tutorial/issues">Request Feature</a>
+    <a href="https://github.com/rajtri/laravel-flutter/issues">Request Feature</a>
   </p>
 </p>
 
